@@ -6,8 +6,8 @@
 
     img[alt="logo"] {
       height: 80vh;
-      max-height: 80vh;
-      max-width: 100%;
+      width: 75%;
+      object-fit: contain;
     }
   }
 
