@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b230676a.chunk.css",
-    "main.js": "/static/js/main.7d7765d2.chunk.js",
-    "main.js.map": "/static/js/main.7d7765d2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.911f3375.js",
-    "runtime-main.js.map": "/static/js/runtime-main.911f3375.js.map",
-    "static/js/2.7d760425.chunk.js": "/static/js/2.7d760425.chunk.js",
-    "static/js/2.7d760425.chunk.js.map": "/static/js/2.7d760425.chunk.js.map",
-    "static/js/3.29a010c1.chunk.js": "/static/js/3.29a010c1.chunk.js",
-    "static/js/3.29a010c1.chunk.js.map": "/static/js/3.29a010c1.chunk.js.map",
+    "main.css": "/static/css/main.a492648a.chunk.css",
+    "main.js": "/static/js/main.59a8c851.chunk.js",
+    "main.js.map": "/static/js/main.59a8c851.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8eb8b1fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8eb8b1fa.js.map",
+    "static/js/2.232db129.chunk.js": "/static/js/2.232db129.chunk.js",
+    "static/js/2.232db129.chunk.js.map": "/static/js/2.232db129.chunk.js.map",
+    "static/js/3.37318a87.chunk.js": "/static/js/3.37318a87.chunk.js",
+    "static/js/3.37318a87.chunk.js.map": "/static/js/3.37318a87.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b230676a.chunk.css.map": "/static/css/main.b230676a.chunk.css.map",
-    "static/js/2.7d760425.chunk.js.LICENSE.txt": "/static/js/2.7d760425.chunk.js.LICENSE.txt",
-    "static/media/logo.fa2f89f4.png": "/static/media/logo.fa2f89f4.png"
+    "static/css/main.a492648a.chunk.css.map": "/static/css/main.a492648a.chunk.css.map",
+    "static/js/2.232db129.chunk.js.LICENSE.txt": "/static/js/2.232db129.chunk.js.LICENSE.txt",
+    "static/media/logo_cnl.22b0a843.png": "/static/media/logo_cnl.22b0a843.png",
+    "static/media/logo_dans_ma_librairie.bb37421e.png": "/static/media/logo_dans_ma_librairie.bb37421e.png",
+    "static/media/logo_initiative.f65c0a8d.png": "/static/media/logo_initiative.f65c0a8d.png",
+    "static/media/logo_prefete.df56ec93.jpg": "/static/media/logo_prefete.df56ec93.jpg",
+    "static/media/logo_region.865f75ca.png": "/static/media/logo_region.865f75ca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.911f3375.js",
-    "static/js/2.7d760425.chunk.js",
-    "static/css/main.b230676a.chunk.css",
-    "static/js/main.7d7765d2.chunk.js"
+    "static/js/runtime-main.8eb8b1fa.js",
+    "static/js/2.232db129.chunk.js",
+    "static/css/main.a492648a.chunk.css",
+    "static/js/main.59a8c851.chunk.js"
   ]
 }
