@@ -1,0 +1,12 @@
+#partners {
+  background-color: #6A8EAE;
+
+  img {
+    width: 100px;
+    transition: scale .5s ease;
+
+    &:hover {
+      scale: 2;
+    }
+  }
+}

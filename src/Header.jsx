@@ -1,10 +1,9 @@
-import logo from './logo.png';
+import logo from './images/logo_dans_ma_librairie.png';
 
 import {
   FaFacebookSquare as FacebookIcon,
   FaInstagramSquare as InstagramIcon
 } from 'react-icons/fa';
-
 
 export default function Header() {
   return (

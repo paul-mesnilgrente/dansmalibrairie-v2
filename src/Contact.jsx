@@ -2,7 +2,7 @@ export default function Contact() {
   return (
     <section className="pb-5" id="contact">
       <div className="container">
-        <h1>Contact</h1>
+        <h1 className="pt-3">Contact</h1>
 
         <div className="row">
           <div className="col-xs-12 col-md-4">
